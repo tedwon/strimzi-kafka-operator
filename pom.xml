@@ -143,7 +143,7 @@
         <slf4j.version>1.7.36</slf4j.version>
         <log4j.version>2.17.2</log4j.version>
         <quartz.version>2.3.2</quartz.version>
-        <opentelemetry.alpha-version>1.19.0-alpha</opentelemetry.alpha-version>
+        <opentelemetry.alpha-version>1.32.0</opentelemetry.alpha-version>
         <jetty.version>9.4.53.v20231009</jetty.version>
         <javax-servlet.version>3.1.0</javax-servlet.version>
         <strimzi-oauth.version>0.14.0</strimzi-oauth.version>
